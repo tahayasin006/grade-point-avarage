@@ -1,1 +1,1 @@
-# grade-point-avarage
+# grade-point-average
