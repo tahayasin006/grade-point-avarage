@@ -25,7 +25,7 @@ public static void main (String[] args){
     System.out.print("Chemistry Note :");
     chemistry = input.nextInt();
 
-    double outcome = (mat + physic + history + turkish + music + chemistry) / 6;
+    double outcome = (mat + physic + history + turkish + music + chemistry) / 6.0;
     System.out.println("Note Avarage :" + outcome);
 
 /*if(sonuc > 60){
